@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1696175400 source:e:\0praktikum\no6\main.cpp
+	<iostream>
+	"kerucut.h"
+
+1696175392 source:e:\0praktikum\no6\kerucut.cpp
+	<cmath>
+	"kerucut.h"
+
+1696175420 e:\0praktikum\no6\kerucut.h
+
