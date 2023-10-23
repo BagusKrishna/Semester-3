@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697996839 source:e:\0praktikum\tp_mod6_1301223088_if-46-04\main.cpp
+	"dll.h"
+
+1697996168 e:\0praktikum\tp_mod6_1301223088_if-46-04\dll.h
+	<iostream>
+
+1697996791 source:e:\0praktikum\tp_mod6_1301223088_if-46-04\dll.cpp
+	"dll.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1696778860 source:e:\0praktikum\list\list.cpp
+	<iostream>
+	"list.h"
+
+1696776173 e:\0praktikum\list\list.h
+	<iostream>
+
+1696778797 source:e:\0praktikum\list\main.cpp
+	<iostream>
+	"list.h"
+

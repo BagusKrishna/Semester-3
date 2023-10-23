@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1697365641 source:e:\0praktikum\tp_mod5_1301223088_if-46-04\main.cpp
+	"SLL.h"
+
+1697217283 e:\0praktikum\tp_mod5_1301223088_if-46-04\sll.h
+	<iostream>
+
+1697275989 source:e:\0praktikum\tp_mod5_1301223088_if-46-04\sll.cpp
+	"SLL.h"
+
