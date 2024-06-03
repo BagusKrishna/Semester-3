@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1702222417 source:e:\0praktikum\tubesstd.vol1\main.cpp
+	"Parent.h"
+	"Child.h"
+
+1702225273 e:\0praktikum\tubesstd.vol1\parent.h
+	<iostream>
+	"Relasi.h"
+
+1702224618 e:\0praktikum\tubesstd.vol1\relasi.h
+	"Child.h"
+	<iostream>
+
+1702225684 e:\0praktikum\tubesstd.vol1\child.h
+	<iostream>
+
+1702225709 source:e:\0praktikum\tubesstd.vol1\child.cpp
+	"Child.h"
+
+1702225441 source:e:\0praktikum\tubesstd.vol1\parent.cpp
+	"Parent.h"
+
+1702224692 source:e:\0praktikum\tubesstd.vol1\relasi.cpp
+	"Relasi.h"
+
+1702225710 source:e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\child.cpp
+	"Child.h"
+
+1702225686 e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\child.h
+	<iostream>
+
+1702488642 source:e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\main.cpp
+	"Parent.h"
+	"Child.h"
+
+1702488490 e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\parent.h
+	<iostream>
+	"Relasi.h"
+	"Child.h"
+
+1702388788 e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\relasi.h
+	"Child.h"
+	<iostream>
+
+1702488461 source:e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\parent.cpp
+	"Parent.h"
+
+1702376287 source:e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\relasi.cpp
+	"Relasi.h"
+
+1702887636 source:e:\tubes std update\2\tubesstd.vol1\tubesstd.vol1\child.cpp
+	"Child.h"
+
+1702885063 e:\tubes std update\2\tubesstd.vol1\tubesstd.vol1\child.h
+	<iostream>
+	<iomanip>
+
+1702890433 source:e:\tubes std update\2\tubesstd.vol1\tubesstd.vol1\main.cpp
+	"Parent.h"
+	"Child.h"
+
+1702890210 e:\tubes std update\2\tubesstd.vol1\tubesstd.vol1\parent.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+	"Relasi.h"
+	"Child.h"
+
+1702510613 e:\tubes std update\2\tubesstd.vol1\tubesstd.vol1\relasi.h
+	"Child.h"
+	<iostream>
+
+1702891234 source:e:\tubes std update\2\tubesstd.vol1\tubesstd.vol1\parent.cpp
+	"Parent.h"
+
+1702704259 source:e:\tubes std update\2\tubesstd.vol1\tubesstd.vol1\relasi.cpp
+	"Relasi.h"
+
+1704097479 source:e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\tubesstd.vol1\child.cpp
+	"Child.h"
+
+1704110567 e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\tubesstd.vol1\child.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+
+1704119647 source:e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\tubesstd.vol1\main.cpp
+	"Parent.h"
+	"Child.h"
+
+1704098653 e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\tubesstd.vol1\parent.h
+	<iostream>
+	<iomanip>
+	<conio.h>
+	"Relasi.h"
+	"Child.h"
+
+1704102975 e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\tubesstd.vol1\relasi.h
+	"Child.h"
+	<iostream>
+
+1704102979 source:e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\tubesstd.vol1\relasi.cpp
+	"Relasi.h"
+
+1704121446 source:e:\kuliah\sem3\struktur data\tugas\tubes\tubesstd.vol1\tubesstd.vol1\parent.cpp
+	"Parent.h"
+
